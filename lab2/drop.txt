@@ -1,0 +1,7 @@
+drop table "INF2S_KUCHARSKID"."COUNTRIES" cascade constraints PURGE;
+drop table "INF2S_KUCHARSKID"."DEPARTMENTS" cascade constraints PURGE;
+drop table "INF2S_KUCHARSKID"."EMPLOYEES" cascade constraints PURGE;
+drop table "INF2S_KUCHARSKID"."JOB_HISTORY" cascade constraints PURGE;
+drop table "INF2S_KUCHARSKID"."JOBS" cascade constraints PURGE;
+drop table "INF2S_KUCHARSKID"."LOCATIONS" cascade constraints PURGE;
+drop table "INF2S_KUCHARSKID"."REGIONS" cascade constraints PURGE;
